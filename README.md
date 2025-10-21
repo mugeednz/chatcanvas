@@ -1,4 +1,4 @@
-# 💬 ChatCanvas
+# ChatCanvas
 
 **ChatCanvas** is an interactive **Swift image editor and chat-based creative app**.  
 It allows users to fetch, edit, and personalize images directly from **Firebase**, featuring a modern UI for cropping, resizing, and background customization.  
