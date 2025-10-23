@@ -23,7 +23,7 @@ Images are beautifully displayed through a dynamic **CollectionView** gallery, m
 - **Language:** Swift  
 - **Frameworks:** UIKit (CollectionView)  
 - **Backend:** Firebase (Firestore + Storage)  
-- **Architecture:** MVVM  
+- **Architecture:** MVC
 - **Other:** CoreImage, PhotosUI, Async/Await  
 
 ---
